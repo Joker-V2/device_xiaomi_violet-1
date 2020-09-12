@@ -1,26 +1,26 @@
 [
   {
-    "repository": "device_xiaomi_sm6150-common",
+    "repository": "dasshubham762/platform_device_xiaomi_sm6150-common",
     "target_path": "device/xiaomi/sm6150-common",
-    "branch":"ten",
-    "remote":"pixel-devices"
+    "branch":"ten-derp",
+    "remote":"github"
   },
   {
     "repository": "kernel_xiaomi_violet",
     "target_path": "kernel/xiaomi/violet",
     "branch":"ten",
-    "remote":"pixel-devices"
+    "remote":"devices"
   },
   {
-    "repository": "vendor_xiaomi_violet",
+    "repository": "dasshubham762/vendor_xiaomi_violet",
     "target_path": "vendor/xiaomi/violet",
     "branch":"ten",
-    "remote":"pixel-devices-blobs"
+    "remote":"gitlab"
   },
   {
-    "repository": "vendor_xiaomi-firmware",
+    "repository": "dasshubham762/vendor_xiaomi-firmware",
     "target_path": "vendor/xiaomi-firmware",
     "branch":"ten",
-    "remote":"pixel-devices-blobs"
+    "remote":"gitlab"
   }
 ]
